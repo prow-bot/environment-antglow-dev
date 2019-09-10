@@ -1,0 +1,10 @@
+adminUser:
+  password: local:antglow/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: wbrefvem+prow-bot@gmail.com
+  token: local:antglow/pipelineUser:token
+  username: prow-bot
+prow:
+  hmacToken: local:antglow/prow:hmacToken
